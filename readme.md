@@ -26,7 +26,7 @@
 | 4    | 5    | 6    | 7    | 8    | 9    | 10   |
 | 11   | 12   | 13   | 14   | 15   | 16   | 17   |
 | 18   | 19   | [20](https://github.com/YuelinWang/dailyCallFrontEndQuestions/blob/main/202101/20.md)   | [21](https://github.com/YuelinWang/dailyCallFrontEndQuestions/blob/main/202101/21.md)   | [22](https://github.com/YuelinWang/dailyCallFrontEndQuestions/blob/main/202101/22.md)   | [23](https://github.com/YuelinWang/dailyCallFrontEndQuestions/blob/main/202101/23.md)   | [23](https://github.com/YuelinWang/dailyCallFrontEndQuestions/blob/main/202101/24.md)   |
-| [23](https://github.com/YuelinWang/dailyCallFrontEndQuestions/blob/main/202101/25.md)   | [26](https://github.com/YuelinWang/dailyCallFrontEndQuestions/blob/main/202101/26.md)   | 27   | 28   | 29   | 30   | 31   |
+| [23](https://github.com/YuelinWang/dailyCallFrontEndQuestions/blob/main/202101/25.md)   | [26](https://github.com/YuelinWang/dailyCallFrontEndQuestions/blob/main/202101/26.md)   | [27](https://github.com/YuelinWang/dailyCallFrontEndQuestions/blob/main/202101/27.md)     | 28   | 29   | 30   | 31   |
 
 
 
